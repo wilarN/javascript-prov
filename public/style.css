@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+body{
+    background: black;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    background: white;
+}
+
+input{
+    width: 200px;
+    height: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    background: white;
+}
+
+img{
+    border: 2px solid greenyellow;
+    border-radius: 40px;
+}
